@@ -1,0 +1,51 @@
+#card1 {
+    background-color: black;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    width: 350px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 35px 0px black;
+    transition: 1s;
+  }
+  #card1:hover {
+    background-color: aqua;
+    color: black;
+  }
+  #card2 {
+    background-color: burlywood;
+    color: brown;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    width: 350px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 35px 0px black;
+    transition: 1s;
+  }
+  #card2:hover {
+    background-color: floralwhite;
+    color: green;
+  }
+  #card3 {
+    background-color: darkorchid;
+    color: lightgreen;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    width: 350px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 35px 0px black;
+    transition: 1s;
+  }
+  #card3:hover {
+    background-color: darkolivegreen;
+    color: lightskyblue;
+  }
